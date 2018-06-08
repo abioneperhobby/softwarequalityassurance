@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customer on A Blog About Software Quality Assurance</title>
+    <link>http://dream-plus.netlify.com/tags/customer/</link>
+    <description>Recent content in Customer on A Blog About Software Quality Assurance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jun 2018 16:58:43 +0200</lastBuildDate>
+    
+	<atom:link href="http://dream-plus.netlify.com/tags/customer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quality Depends on Expectation</title>
+      <link>http://dream-plus.netlify.com/post/quality-depends-on-expectation/</link>
+      <pubDate>Fri, 08 Jun 2018 16:58:43 +0200</pubDate>
+      
+      <guid>http://dream-plus.netlify.com/post/quality-depends-on-expectation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

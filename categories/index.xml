@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on A Blog About Software Quality Assurance</title>
+    <link>http://dream-plus.netlify.com/categories/</link>
+    <description>Recent content in Categories on A Blog About Software Quality Assurance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://dream-plus.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Theory</title>
+      <link>http://dream-plus.netlify.com/categories/theory/</link>
+      <pubDate>Fri, 08 Jun 2018 16:58:43 +0200</pubDate>
+      
+      <guid>http://dream-plus.netlify.com/categories/theory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

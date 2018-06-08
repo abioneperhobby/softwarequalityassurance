@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://dream-plus.netlify.com/post/quality-depends-on-expectation/</loc>
+    <lastmod>2018-06-08T16:58:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dream-plus.netlify.com/404/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dream-plus.netlify.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dream-plus.netlify.com/</loc>
+    <lastmod>2018-06-08T16:58:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dream-plus.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dream-plus.netlify.com/tags/customer/</loc>
+    <lastmod>2018-06-08T16:58:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dream-plus.netlify.com/post/</loc>
+    <lastmod>2018-06-08T16:58:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dream-plus.netlify.com/tags/quality/</loc>
+    <lastmod>2018-06-08T16:58:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dream-plus.netlify.com/tags/</loc>
+    <lastmod>2018-06-08T16:58:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dream-plus.netlify.com/categories/theory/</loc>
+    <lastmod>2018-06-08T16:58:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
