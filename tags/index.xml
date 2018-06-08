@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on A Blog About Software Quality Assurance</title>
-    <link>http://dream-plus.netlify.com/tags/</link>
+    <link>https://abioneperhobby.github.com/softwarequalityassurance/tags/</link>
     <description>Recent content in Tags on A Blog About Software Quality Assurance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Jun 2018 16:58:43 +0200</lastBuildDate>
     
-	<atom:link href="http://dream-plus.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://abioneperhobby.github.com/softwarequalityassurance/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Customer</title>
-      <link>http://dream-plus.netlify.com/tags/customer/</link>
+      <link>https://abioneperhobby.github.com/softwarequalityassurance/tags/customer/</link>
       <pubDate>Fri, 08 Jun 2018 16:58:43 +0200</pubDate>
       
-      <guid>http://dream-plus.netlify.com/tags/customer/</guid>
+      <guid>https://abioneperhobby.github.com/softwarequalityassurance/tags/customer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quality</title>
-      <link>http://dream-plus.netlify.com/tags/quality/</link>
+      <link>https://abioneperhobby.github.com/softwarequalityassurance/tags/quality/</link>
       <pubDate>Fri, 08 Jun 2018 16:58:43 +0200</pubDate>
       
-      <guid>http://dream-plus.netlify.com/tags/quality/</guid>
+      <guid>https://abioneperhobby.github.com/softwarequalityassurance/tags/quality/</guid>
       <description></description>
     </item>
     
