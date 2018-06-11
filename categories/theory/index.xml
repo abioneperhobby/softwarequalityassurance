@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theory on A Blog About Software Quality Assurance</title>
-    <link>https://abioneperhobby.github.com/softwarequalityassurance/categories/theory/</link>
+    <link>https://abioneperhobby.github.io/softwarequalityassurance/categories/theory/</link>
     <description>Recent content in Theory on A Blog About Software Quality Assurance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Jun 2018 16:58:43 +0200</lastBuildDate>
     
-	<atom:link href="https://abioneperhobby.github.com/softwarequalityassurance/categories/theory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://abioneperhobby.github.io/softwarequalityassurance/categories/theory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quality Depends on Expectation</title>
-      <link>https://abioneperhobby.github.com/softwarequalityassurance/post/quality-depends-on-expectation/</link>
+      <link>https://abioneperhobby.github.io/softwarequalityassurance/post/quality-depends-on-expectation/</link>
       <pubDate>Fri, 08 Jun 2018 16:58:43 +0200</pubDate>
       
-      <guid>https://abioneperhobby.github.com/softwarequalityassurance/post/quality-depends-on-expectation/</guid>
+      <guid>https://abioneperhobby.github.io/softwarequalityassurance/post/quality-depends-on-expectation/</guid>
       <description></description>
     </item>
     
